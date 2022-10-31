@@ -11,5 +11,3 @@
 
 ## 変更点（2022/10/26）
 データ収集後の集計作業の便宜のため、スレッドごとにidをふるように変更しています。
-
-https://github.com/Atsu-fuji/How-to-scrape-2ch-and-5ch-in-pyhon/blob/main/how_to_scrape_2ch_and_5ch.ipynb
