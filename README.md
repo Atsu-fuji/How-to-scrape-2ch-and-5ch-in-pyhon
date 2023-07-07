@@ -1,4 +1,4 @@
-# How-to-scrape-2ch-and-5ch-in-pyhon
+# How-to-scrape-2ch-and-5ch-in-python
 
 2ちゃんねる（現5ちゃんねる）の投稿をスクレイピングする方法です。
 
